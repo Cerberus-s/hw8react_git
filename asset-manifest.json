@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw8react_git/static/css/main.95e3ddbb.css",
+    "main.js": "/hw8react_git/static/js/main.f1a6b310.js",
+    "static/js/787.452e27e1.chunk.js": "/hw8react_git/static/js/787.452e27e1.chunk.js",
+    "index.html": "/hw8react_git/index.html",
+    "main.95e3ddbb.css.map": "/hw8react_git/static/css/main.95e3ddbb.css.map",
+    "main.f1a6b310.js.map": "/hw8react_git/static/js/main.f1a6b310.js.map",
+    "787.452e27e1.chunk.js.map": "/hw8react_git/static/js/787.452e27e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95e3ddbb.css",
+    "static/js/main.f1a6b310.js"
+  ]
+}
